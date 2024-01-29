@@ -6,5 +6,8 @@ public class C1 {
         System.out.println("Hello world");
     }
 
+    private static void testReset() {
+        System.out.println("Test");
+    }
 
 }
